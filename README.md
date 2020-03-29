@@ -38,6 +38,8 @@ Output should consist of a single real number: the average length of an S.L. min
 1.396078431
 ```
 
+<hr>
+
 ## Problem B
 The king in Utopia has died without an heir. Now several nobles in the country claim the throne. The country law states that if the ruler has no heir, the person who is most related to the founder of the country should rule.
 
