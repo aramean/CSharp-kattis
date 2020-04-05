@@ -8,3 +8,4 @@ C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemB\obj\Debug\n
 C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemB\obj\Debug\netcoreapp3.1\ProblemB.AssemblyInfo.cs
 C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemB\obj\Debug\netcoreapp3.1\ProblemB.dll
 C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemB\obj\Debug\netcoreapp3.1\ProblemB.pdb
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemB\obj\Debug\netcoreapp3.1\ProblemB.csprojAssemblyReference.cache
