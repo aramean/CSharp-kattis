@@ -1,0 +1,10 @@
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\bin\Debug\netcoreapp3.1\ProblemA.deps.json
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\bin\Debug\netcoreapp3.1\ProblemA.dll
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\bin\Debug\netcoreapp3.1\ProblemA.pdb
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\obj\Debug\netcoreapp3.1\ProblemA.AssemblyInfoInputs.cache
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\obj\Debug\netcoreapp3.1\ProblemA.AssemblyInfo.cs
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\obj\Debug\netcoreapp3.1\ProblemA.dll
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\obj\Debug\netcoreapp3.1\ProblemA.pdb
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\bin\Debug\netcoreapp3.1\ProblemA.exe
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\bin\Debug\netcoreapp3.1\ProblemA.runtimeconfig.json
+C:\Users\Administratör\source\repos\CSharp-kattis\Solution\ProblemA\bin\Debug\netcoreapp3.1\ProblemA.runtimeconfig.dev.json
